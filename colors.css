@@ -2,6 +2,11 @@
  * google-material-color v1.2.6
  * https://material.io/guidelines/style/color.html#color-color-palette
  */
+ 
+ .align-center {text-align:center;}
+ .shadowbox-on-hover {}
+ .shadowbox-on-hover:hover {box-shadow: 0 0 5px -1px rgba(0,0,0,.9);}
+ 
 .mat-red-bg {background-color: #f44336;}
 .mat-red-text {color: #f44336;}
 .mat-red-50-bg {background-color: #ffebee;}
